@@ -74,3 +74,6 @@ time.sleep(60)  # Espera 5 minutos (300 segundos)
 
 bot.send_message(chat_id=group_id, text=texto5, parse_mode='Markdown')
 time.sleep(120) 
+
+
+aaaaaaaaa
