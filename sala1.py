@@ -7,7 +7,7 @@ CHAVE_API = "5597794728:AAGfwOg3RijfPrQ5S_Iw6NKAuYucNEdIsO8" # BOT FOX
 
 bot = telebot.TeleBot(CHAVE_API)
 
-group_id = '-1001842171550'
+group_id = ' -1001935243847'
 
 possibilidades_minas = [
 "‼️ RETIRAR EM 1.50x",
@@ -58,7 +58,7 @@ mensagem = """
 print("BOT-AFF07-NUTS")
 
 bot.send_message(chat_id=group_id, text=texto4, parse_mode='Markdown')
-time.sleep(120) 
+time.sleep(12) 
 
 
 
@@ -70,8 +70,8 @@ mensagem_formatada = mensagem.format(possibilidade_mina_aleatoria, hora_validade
 
 bot.send_message(chat_id=group_id, text=mensagem_formatada, parse_mode='Markdown')
 
-time.sleep(60)  # Espera 5 minutos (300 segundos)
+time.sleep(6)  # Espera 5 minutos (300 segundos)
 
 bot.send_message(chat_id=group_id, text=texto5, parse_mode='Markdown')
-time.sleep(120) 
+time.sleep(12) 
 
