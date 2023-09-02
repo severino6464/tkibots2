@@ -24,7 +24,7 @@ possibilidades_minas = [
 
 
 texto4 = """
-⚠️ Fique atento ao jogo ⚠️
+⚠️ Fique atento ao jogo ⚠️�esteeeeeeeeeeeeeee
 
 ✈️ Aviator 
 🔎 identificando entrada
